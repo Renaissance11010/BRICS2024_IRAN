@@ -1,9 +1,6 @@
 ![AI solutions](https://github.com/Renaissance11010/brics2024UAS_IRAN/blob/main/Ofogh%20logo.png?raw=true
 )
-<div align="center">
-  <img src="https://github.com/Renaissance11010/brics2024UAS_IRAN/blob/main/Ofogh%20logo.png?raw=true
-" alt="AI solutions">
-</div>
+
 
 
 
