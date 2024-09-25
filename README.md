@@ -5,7 +5,7 @@
 
 
 
-# BRICS_2024_FUAS_IRAN
+# BRICS 2024 FUTURE TECH & SKILL UAS  IRAN
 -> Aerial Robotics: Development of a fully connected drone swarm control system
  
 
