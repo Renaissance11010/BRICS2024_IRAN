@@ -1,6 +1,13 @@
-# brics2024UAS_IRAN
 
-Domcuments about UAS task and its ‌work progress. 
+
+
+
+
+
+
+# BRICS_2024_FUAS_IRAN
+-> Aerial Robotics: Development of a fully connected drone swarm control system
+ 
 
 1 - programming
 
